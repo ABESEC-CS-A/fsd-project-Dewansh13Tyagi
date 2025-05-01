@@ -5,13 +5,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "dewansh tyagi",
   "license": "ISC",
-  "description": "",
+  "description": "messaging app contributed by dewansh tyagi",
   "devDependencies": {
     "nodemon": "^3.1.10"
   },
   "dependencies": {
-    "mongoose": "^8.13.2"
+    "dotenv": "^16.5.0",
+    "mongoose": "^8.14.1"
   }
 }
